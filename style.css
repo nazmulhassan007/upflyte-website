@@ -108,6 +108,7 @@ p{
 .icon{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+
    
 }
 
@@ -117,9 +118,11 @@ h5{
 }
 
 
-h4{
+h3{
     padding-right: 34%;
     color: #1e374f;
+    font-size: 18px;
+
 }
 
 h1{
@@ -141,4 +144,45 @@ h3{
     background: #03AAFC;
     color: #fff;
     font-size: 18px;
+}
+
+
+.container-section{
+    width: 1650px;
+    height: 1505px;
+    flex-shrink: 0;
+    background: #121E2E;
+    margin-top: 71px;
+
+}
+
+.button-container{
+    padding: 10px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 32px;
+    background: #03AAFC;
+    border: none;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    margin-left: 747px;
+    margin-right: 564px;
+    margin-top: 60px;
+}
+
+
+#this-is-a-heading-h4{
+    margin-left: 35%;
+    font-size: 40px;
+    color: #fff;
+}
+
+
+.this-is-a-heading-h5{
+    margin-left: 23%;
+    margin-right: 20%;
+    color: #fff;
+    /* font-size: 18px; */
 }
