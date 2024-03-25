@@ -186,3 +186,53 @@ h3{
     color: #fff;
     /* font-size: 18px; */
 }
+
+
+.nav-background-color{
+    background-color: #03AAFC;
+    margin-left: 23%;
+    margin-right: 20%;
+    padding: 20px 20px;
+}
+
+
+
+li a{
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    color: #fff;
+    display: flex;
+    
+}
+
+
+
+.div-container-img-logo{
+    background-color: #000;
+    color: #fff;
+}
+
+img{
+    padding: 2px 2px;
+}
+
+
+
+
+.button-container-09{
+    margin-left: 23%;
+    display: inline-flex;
+    padding: 10px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 60px;
+    background: #03AAFC;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 90px;
+}
+
+
